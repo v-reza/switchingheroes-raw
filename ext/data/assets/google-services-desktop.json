@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "634618398683",
+    "project_id": "collectionidle",
+    "storage_bucket": "collectionidle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634618398683:android:1dfe54e35fb95d57bac9fe",
+        "android_client_info": {
+          "package_name": "com.zilliongames.collectionidle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634618398683-acpsv4k1n93f5gane4ouq75atrcklpap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkhyd9u0QuXD7r-FUu02ZJo-8_ucc8nh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634618398683-acpsv4k1n93f5gane4ouq75atrcklpap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "634618398683-p4uirurdavb7fkvl205utp77be6cav7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zilliongames.collectionidle",
+                "app_store_id": "6473819116"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6416087657377808~6861497215"
+    }
+  ],
+  "configuration_version": "1"
+}
